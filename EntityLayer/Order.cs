@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace EntityLayer
+{
+    public class Order
+    {
+        public int Id { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string Address { get; set; }
+        public string CardNumber { get; set; }
+        public string CardHolderName { get; set; }
+        public DateTime ExpiryDate { get; set; }
+        public string SecurityCode { get; set; }
+        public List<Product>Products { get; set; }
+        public Seller Seller { get; set; }
+        public int SellerId { get; set; }
+        public ICollection<OrderProduct> OrderProducts { get; set; }
+    }
+
+  
+}

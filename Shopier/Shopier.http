@@ -1,0 +1,6 @@
+@Shopier_HostAddress = http://localhost:5217
+
+GET {{Shopier_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

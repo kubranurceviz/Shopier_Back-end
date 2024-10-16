@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kubi\\source\\repos\\Shopier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A21B0EC-9A5D-4C6A-986C-983B7D79B4EF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\kubi\\source\\repos\\shopier\\dataaccesslayer\\migrations\\20241007141749_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A21B0EC-9A5D-4C6A-986C-983B7D79B4EF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\20241007141749_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A21B0EC-9A5D-4C6A-986C-983B7D79B4EF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\kubi\\source\\repos\\shopier\\dataaccesslayer\\concreate\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A21B0EC-9A5D-4C6A-986C-983B7D79B4EF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\concreate\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B784A30-A09D-4388-AA64-886B578416DA}|Shopier\\Shopier.csproj|c:\\users\\kubi\\source\\repos\\shopier\\shopier\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B784A30-A09D-4388-AA64-886B578416DA}|Shopier\\Shopier.csproj|solutionrelative:shopier\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B784A30-A09D-4388-AA64-886B578416DA}|Shopier\\Shopier.csproj|c:\\users\\kubi\\source\\repos\\shopier\\shopier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B784A30-A09D-4388-AA64-886B578416DA}|Shopier\\Shopier.csproj|solutionrelative:shopier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A21B0EC-9A5D-4C6A-986C-983B7D79B4EF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\kubi\\source\\repos\\shopier\\dataaccesslayer\\ef\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A21B0EC-9A5D-4C6A-986C-983B7D79B4EF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\ef\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A21B0EC-9A5D-4C6A-986C-983B7D79B4EF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\kubi\\source\\repos\\shopier\\dataaccesslayer\\concreate\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A21B0EC-9A5D-4C6A-986C-983B7D79B4EF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\concreate\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACFFAF46-F1B1-47BF-B534-70CC3D107495}|EntityLayer\\EntityLayer.csproj|c:\\users\\kubi\\source\\repos\\shopier\\entitylayer\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACFFAF46-F1B1-47BF-B534-70CC3D107495}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACFFAF46-F1B1-47BF-B534-70CC3D107495}|EntityLayer\\EntityLayer.csproj|c:\\users\\kubi\\source\\repos\\shopier\\entitylayer\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACFFAF46-F1B1-47BF-B534-70CC3D107495}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D8FA32-E0D7-47F6-9137-1DF8474B3475}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\kubi\\source\\repos\\shopier\\businesslogiclayer\\concreate\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D8FA32-E0D7-47F6-9137-1DF8474B3475}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\concreate\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D8FA32-E0D7-47F6-9137-1DF8474B3475}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\kubi\\source\\repos\\shopier\\businesslogiclayer\\abstract\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D8FA32-E0D7-47F6-9137-1DF8474B3475}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\abstract\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A21B0EC-9A5D-4C6A-986C-983B7D79B4EF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\kubi\\source\\repos\\shopier\\dataaccesslayer\\abstract\\iorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A21B0EC-9A5D-4C6A-986C-983B7D79B4EF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\abstract\\iorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A21B0EC-9A5D-4C6A-986C-983B7D79B4EF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\kubi\\source\\repos\\shopier\\dataaccesslayer\\ef\\eforderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A21B0EC-9A5D-4C6A-986C-983B7D79B4EF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\ef\\eforderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A21B0EC-9A5D-4C6A-986C-983B7D79B4EF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\kubi\\source\\repos\\shopier\\dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A21B0EC-9A5D-4C6A-986C-983B7D79B4EF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACFFAF46-F1B1-47BF-B534-70CC3D107495}|EntityLayer\\EntityLayer.csproj|c:\\users\\kubi\\source\\repos\\shopier\\entitylayer\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACFFAF46-F1B1-47BF-B534-70CC3D107495}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A21B0EC-9A5D-4C6A-986C-983B7D79B4EF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\kubi\\source\\repos\\shopier\\dataaccesslayer\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A21B0EC-9A5D-4C6A-986C-983B7D79B4EF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D8FA32-E0D7-47F6-9137-1DF8474B3475}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\kubi\\source\\repos\\shopier\\businesslogiclayer\\concreate\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D8FA32-E0D7-47F6-9137-1DF8474B3475}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\concreate\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D8FA32-E0D7-47F6-9137-1DF8474B3475}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\kubi\\source\\repos\\shopier\\businesslogiclayer\\concreate\\sellermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D8FA32-E0D7-47F6-9137-1DF8474B3475}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\concreate\\sellermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A21B0EC-9A5D-4C6A-986C-983B7D79B4EF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\kubi\\source\\repos\\shopier\\dataaccesslayer\\ef\\efsellerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A21B0EC-9A5D-4C6A-986C-983B7D79B4EF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\ef\\efsellerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B784A30-A09D-4388-AA64-886B578416DA}|Shopier\\Shopier.csproj|c:\\users\\kubi\\source\\repos\\shopier\\shopier\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B784A30-A09D-4388-AA64-886B578416DA}|Shopier\\Shopier.csproj|solutionrelative:shopier\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B784A30-A09D-4388-AA64-886B578416DA}|Shopier\\Shopier.csproj|c:\\users\\kubi\\source\\repos\\shopier\\shopier\\shopier.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5B784A30-A09D-4388-AA64-886B578416DA}|Shopier\\Shopier.csproj|solutionrelative:shopier\\shopier.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACFFAF46-F1B1-47BF-B534-70CC3D107495}|EntityLayer\\EntityLayer.csproj|c:\\users\\kubi\\source\\repos\\shopier\\entitylayer\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACFFAF46-F1B1-47BF-B534-70CC3D107495}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A21B0EC-9A5D-4C6A-986C-983B7D79B4EF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\kubi\\source\\repos\\shopier\\dataaccesslayer\\abstract\\isellerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A21B0EC-9A5D-4C6A-986C-983B7D79B4EF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\abstract\\isellerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A21B0EC-9A5D-4C6A-986C-983B7D79B4EF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\kubi\\source\\repos\\shopier\\dataaccesslayer\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A21B0EC-9A5D-4C6A-986C-983B7D79B4EF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D8FA32-E0D7-47F6-9137-1DF8474B3475}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\kubi\\source\\repos\\shopier\\businesslogiclayer\\abstract\\isellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D8FA32-E0D7-47F6-9137-1DF8474B3475}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\abstract\\isellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D8FA32-E0D7-47F6-9137-1DF8474B3475}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\kubi\\source\\repos\\shopier\\businesslogiclayer\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D8FA32-E0D7-47F6-9137-1DF8474B3475}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241007141749_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\Kubi\\source\\repos\\Shopier\\DataAccessLayer\\Migrations\\20241007141749_mig1.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20241007141749_mig1.cs",
+              "ToolTip": "C:\\Users\\Kubi\\source\\repos\\Shopier\\DataAccessLayer\\Migrations\\20241007141749_mig1.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20241007141749_mig1.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAQwJEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:17:49.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Kubi\\source\\repos\\Shopier\\DataAccessLayer\\Concreate\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Concreate\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Kubi\\source\\repos\\Shopier\\DataAccessLayer\\Concreate\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "DataAccessLayer\\Concreate\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:12:12.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EfProductREpository.cs",
+              "DocumentMoniker": "C:\\Users\\Kubi\\source\\repos\\Shopier\\DataAccessLayer\\EF\\EfProductREpository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EF\\EfProductREpository.cs",
+              "ToolTip": "C:\\Users\\Kubi\\source\\repos\\Shopier\\DataAccessLayer\\EF\\EfProductREpository.cs",
+              "RelativeToolTip": "DataAccessLayer\\EF\\EfProductREpository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:06:02.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Kubi\\source\\repos\\Shopier\\DataAccessLayer\\Concreate\\Context.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Concreate\\Context.cs",
+              "ToolTip": "C:\\Users\\Kubi\\source\\repos\\Shopier\\DataAccessLayer\\Concreate\\Context.cs",
+              "RelativeToolTip": "DataAccessLayer\\Concreate\\Context.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:02:53.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kubi\\source\\repos\\Shopier\\Shopier\\appsettings.json",
+              "RelativeDocumentMoniker": "Shopier\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kubi\\source\\repos\\Shopier\\Shopier\\appsettings.json",
+              "RelativeToolTip": "Shopier\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T14:29:37.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kubi\\source\\repos\\Shopier\\Shopier\\Program.cs",
+              "RelativeDocumentMoniker": "Shopier\\Program.cs",
+              "ToolTip": "C:\\Users\\Kubi\\source\\repos\\Shopier\\Shopier\\Program.cs",
+              "RelativeToolTip": "Shopier\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:29:34.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EfOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kubi\\source\\repos\\Shopier\\DataAccessLayer\\EF\\EfOrderRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EF\\EfOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Kubi\\source\\repos\\Shopier\\DataAccessLayer\\EF\\EfOrderRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\EF\\EfOrderRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:09:41.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Kubi\\source\\repos\\Shopier\\EntityLayer\\Order.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Order.cs",
+              "ToolTip": "C:\\Users\\Kubi\\source\\repos\\Shopier\\EntityLayer\\Order.cs",
+              "RelativeToolTip": "EntityLayer\\Order.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA3wBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:11:12.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Kubi\\source\\repos\\Shopier\\EntityLayer\\Product.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Product.cs",
+              "ToolTip": "C:\\Users\\Kubi\\source\\repos\\Shopier\\EntityLayer\\Product.cs",
+              "RelativeToolTip": "EntityLayer\\Product.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:12:06.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Kubi\\source\\repos\\Shopier\\BusinessLogicLayer\\Abstract\\IOrderService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Abstract\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Kubi\\source\\repos\\Shopier\\BusinessLogicLayer\\Abstract\\IOrderService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Abstract\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:58:40.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kubi\\source\\repos\\Shopier\\BusinessLogicLayer\\Concreate\\OrderManager.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Concreate\\OrderManager.cs",
+              "ToolTip": "C:\\Users\\Kubi\\source\\repos\\Shopier\\BusinessLogicLayer\\Concreate\\OrderManager.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Concreate\\OrderManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:59:45.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IOrderDal.cs",
+              "DocumentMoniker": "C:\\Users\\Kubi\\source\\repos\\Shopier\\DataAccessLayer\\Abstract\\IOrderDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IOrderDal.cs",
+              "ToolTip": "C:\\Users\\Kubi\\source\\repos\\Shopier\\DataAccessLayer\\Abstract\\IOrderDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\Abstract\\IOrderDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:02:36.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGenericDal.cs",
+              "DocumentMoniker": "C:\\Users\\Kubi\\source\\repos\\Shopier\\DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ToolTip": "C:\\Users\\Kubi\\source\\repos\\Shopier\\DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:01:19.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kubi\\source\\repos\\Shopier\\DataAccessLayer\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Kubi\\source\\repos\\Shopier\\DataAccessLayer\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:10:07.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Kubi\\source\\repos\\Shopier\\EntityLayer\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\OrderProduct.cs",
+              "ToolTip": "C:\\Users\\Kubi\\source\\repos\\Shopier\\EntityLayer\\OrderProduct.cs",
+              "RelativeToolTip": "EntityLayer\\OrderProduct.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:17:14.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kubi\\source\\repos\\Shopier\\BusinessLogicLayer\\Concreate\\ProductManager.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Concreate\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\Kubi\\source\\repos\\Shopier\\BusinessLogicLayer\\Concreate\\ProductManager.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Concreate\\ProductManager.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA5wDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:01:54.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SellerManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kubi\\source\\repos\\Shopier\\BusinessLogicLayer\\Concreate\\SellerManager.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Concreate\\SellerManager.cs",
+              "ToolTip": "C:\\Users\\Kubi\\source\\repos\\Shopier\\BusinessLogicLayer\\Concreate\\SellerManager.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Concreate\\SellerManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:59:25.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EfSellerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kubi\\source\\repos\\Shopier\\DataAccessLayer\\EF\\EfSellerRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EF\\EfSellerRepository.cs",
+              "ToolTip": "C:\\Users\\Kubi\\source\\repos\\Shopier\\DataAccessLayer\\EF\\EfSellerRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\EF\\EfSellerRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:09:18.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\Users\\Kubi\\source\\repos\\Shopier\\EntityLayer\\Seller.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Seller.cs",
+              "ToolTip": "C:\\Users\\Kubi\\source\\repos\\Shopier\\EntityLayer\\Seller.cs",
+              "RelativeToolTip": "EntityLayer\\Seller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:11:25.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Kubi\\source\\repos\\Shopier\\Shopier\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Shopier\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Kubi\\source\\repos\\Shopier\\Shopier\\appsettings.Development.json",
+              "RelativeToolTip": "Shopier\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T12:21:27.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Shopier.http",
+              "DocumentMoniker": "C:\\Users\\Kubi\\source\\repos\\Shopier\\Shopier\\Shopier.http",
+              "RelativeDocumentMoniker": "Shopier\\Shopier.http",
+              "ToolTip": "C:\\Users\\Kubi\\source\\repos\\Shopier\\Shopier\\Shopier.http",
+              "RelativeToolTip": "Shopier\\Shopier.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-05T12:21:31.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ISellerDal.cs",
+              "DocumentMoniker": "C:\\Users\\Kubi\\source\\repos\\Shopier\\DataAccessLayer\\Abstract\\ISellerDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\ISellerDal.cs",
+              "ToolTip": "C:\\Users\\Kubi\\source\\repos\\Shopier\\DataAccessLayer\\Abstract\\ISellerDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\Abstract\\ISellerDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:02:15.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\Kubi\\source\\repos\\Shopier\\DataAccessLayer\\Abstract\\IProductDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IProductDal.cs",
+              "ToolTip": "C:\\Users\\Kubi\\source\\repos\\Shopier\\DataAccessLayer\\Abstract\\IProductDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\Abstract\\IProductDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:02:00.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Kubi\\source\\repos\\Shopier\\BusinessLogicLayer\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Kubi\\source\\repos\\Shopier\\BusinessLogicLayer\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Abstract\\IProductService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:57:36.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ISellerService.cs",
+              "DocumentMoniker": "C:\\Users\\Kubi\\source\\repos\\Shopier\\BusinessLogicLayer\\Abstract\\ISellerService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Abstract\\ISellerService.cs",
+              "ToolTip": "C:\\Users\\Kubi\\source\\repos\\Shopier\\BusinessLogicLayer\\Abstract\\ISellerService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Abstract\\ISellerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:58:16.853Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
